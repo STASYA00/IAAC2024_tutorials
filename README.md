@@ -102,7 +102,6 @@ Open the ```notebooks/01_data_cleaning.ipynb``` in [colab](https://colab.researc
 * Read the comments
 * Do the exercises
 * *If possible:* read through the linked resources :smile:
-* Write **OOP-only code** in the future
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
