@@ -1,0 +1,252 @@
+,building_id,site_id,site_id_kaggle,primaryspaceusage,sub_primaryspaceusage,sqm,sqft,lat,lng,timezone,electricity,hotwater,chilledwater,steam,water,irrigation,solar,gas,industry,subindustry,heatingtype,yearbuilt,date_opened,numberoffloors,occupants,energystarscore,eui,site_eui,source_eui,leed_level,rating
+136,432,Trapano,143.0,Education,College Classroom,4703.0,50623.0,51.51878965384613,-0.1345562307692307,Europe/London,Yes,,,,,,,,Education,College/University,Steam,,,5.0,,,,,,,G
+137,416,Trapano,143.0,Education,College Classroom,499.3,5374.0,51.51878965384613,-0.1345562307692307,Europe/London,Yes,Yes,,,,,,,Education,College/University,Heat network,,,4.0,,,,,,,
+138,436,Trapano,143.0,Education,College Classroom,9061.0,97532.0,51.51878965384613,-0.1345562307692307,Europe/London,Yes,,,,,,,,Education,College/University,Heat network,2005.0,,10.0,,,,,,,F
+139,441,Trapano,143.0,Education,College Laboratory,7579.0,81580.0,51.51878965384613,-0.1345562307692307,Europe/London,Yes,,,,,,,,Education,College/University,Heat network,1913.0,,5.0,,,,,,,
+140,442,Trapano,143.0,Education,College Laboratory,5295.0,56995.0,51.51878965384613,-0.1345562307692307,Europe/London,Yes,Yes,,,,,,,Education,College/University,Heat network,1953.0,,6.0,,,,,,,G
+141,411,Trapano,143.0,Education,College Laboratory,2584.0,27814.0,51.51878965384613,-0.1345562307692307,Europe/London,Yes,Yes,,,,,,,Education,College/University,Heat network,2006.0,,8.0,,,,,,,G
+142,426,Trapano,143.0,Education,College Laboratory,10994.0,118338.0,51.51878965384613,-0.1345562307692307,Europe/London,Yes,,,,,,,,Education,College/University,Heat network,1909.0,,7.0,,,,,,,F
+143,430,Trapano,143.0,Education,College Laboratory,2992.0,32206.0,51.51878965384613,-0.1345562307692307,Europe/London,Yes,Yes,,,,,,,Education,College/University,Heat network,,,6.0,,,,,,,E
+144,439,Trapano,143.0,Education,College Laboratory,9335.0,100481.0,51.51878965384613,-0.1345562307692307,Europe/London,Yes,Yes,,,,,,,Education,College/University,Heat network,1958.0,,9.0,,,,,,,F
+145,437,Trapano,143.0,Education,College Laboratory,12977.0,139683.0,51.51878965384613,-0.1345562307692307,Europe/London,Yes,Yes,,,,,,,Education,College/University,Heat network,1958.0,,13.0,,,,,,,E
+146,444,Trapano,143.0,Education,College Laboratory,12051.0,129716.0,51.51878965384613,-0.1345562307692307,Europe/London,Yes,,,,,,,,Education,College/University,Heat network,1968.0,,6.0,,,,,,,F
+147,428,Trapano,143.0,Education,College Laboratory,3462.0,37265.0,51.51878965384613,-0.1345562307692307,Europe/London,Yes,,,,,,,,Education,College/University,Oil,,,5.0,,,,,,,
+148,413,Trapano,143.0,Education,College Laboratory,1439.0,15489.0,51.51878965384613,-0.1345562307692307,Europe/London,Yes,Yes,,,,,,,Education,College/University,Heat network,2004.0,,4.0,,,,,,,E
+149,429,Trapano,143.0,Education,College Laboratory,12850.0,138316.0,51.51878965384613,-0.1345562307692307,Europe/London,Yes,,,,,,,,Education,College/University,Gas,1960.0,,8.0,,,,,,,
+150,440,Trapano,143.0,Education,College Laboratory,8468.0,91149.0,51.51878965384613,-0.1345562307692307,Europe/London,Yes,Yes,,,,,,,Education,College/University,Heat network,2007.0,,7.0,,,,,,,E
+151,449,Trapano,143.0,Education,College Laboratory,6337.0,68211.0,51.51878965384613,-0.1345562307692307,Europe/London,Yes,,,,,,,,Education,College/University,Heat network,1976.0,,7.0,,,,,,,G
+152,418,Trapano,143.0,Education,College Laboratory,13965.0,150318.0,51.51878965384613,-0.1345562307692307,Europe/London,Yes,Yes,,,,,,,Education,College/University,Heat network and steam,1906.0,,9.0,,,,,,,B
+153,448,Trapano,143.0,Education,College Laboratory,7714.9,83043.0,51.51878965384613,-0.1345562307692307,Europe/London,Yes,,,,,,,,Education,College/University,Gas,1991.0,,6.0,,,,,,,F
+154,434,Trapano,143.0,Education,College Laboratory,5686.0,61204.0,51.51878965384613,-0.1345562307692307,Europe/London,Yes,,,,,,,,Education,College/University,Gas,1989.0,,6.0,,,,,,,E
+155,412,Trapano,143.0,Education,College Laboratory,3560.0,38319.0,51.51878965384613,-0.1345562307692307,Europe/London,Yes,,,,,,,,Education,College/University,Gas,1900.0,,6.0,,,,,,,D
+156,447,Trapano,143.0,Education,College Laboratory,1561.0,16802.0,51.51878965384613,-0.1345562307692307,Europe/London,Yes,,,,,,,,Education,College/University,Gas,1995.0,,6.0,,,,,,,
+157,438,Trapano,143.0,Education,College Laboratory,2001.0,21539.0,51.51878965384613,-0.1345562307692307,Europe/London,Yes,,,,,,,,Education,College/University,Gas,2004.0,,5.0,,,,,,,G
+158,456,Trapano,143.0,Lodging/residential,Dormitory,2515.0,27071.0,51.51878965384613,-0.1345562307692307,Europe/London,Yes,,,,,,,,Education,College/University,Gas,,,6.0,,,,,,,D
+159,473,Trapano,143.0,Lodging/residential,Dormitory,9548.0,102774.0,51.51878965384613,-0.1345562307692307,Europe/London,Yes,,,,,,,,Education,College/University,Gas,1956.0,,7.0,,,,,,,E
+160,460,Trapano,143.0,Lodging/residential,Dormitory,9565.0,102957.0,51.51878965384613,-0.1345562307692307,Europe/London,Yes,,,,,,,,Education,College/University,Gas,1968.0,,7.0,,,,,,,G
+161,457,Trapano,143.0,Lodging/residential,Dormitory,5842.9,62893.0,51.51878965384613,-0.1345562307692307,Europe/London,Yes,,,,,,,,Education,College/University,Gas,1960.0,,16.0,,,,,,,F
+162,463,Trapano,143.0,Lodging/residential,Dormitory,6193.0,66661.0,51.51878965384613,-0.1345562307692307,Europe/London,Yes,,,,,,,,Education,College/University,Electric,1930.0,,7.0,,,,,,,E
+163,455,Trapano,143.0,Lodging/residential,Dormitory,7721.0,83108.0,51.51878965384613,-0.1345562307692307,Europe/London,Yes,,,,,,,,Education,College/University,Gas,1995.0,,8.0,,,,,,,D
+164,464,Trapano,143.0,Lodging/residential,Dormitory,6013.0,64723.0,51.51878965384613,-0.1345562307692307,Europe/London,Yes,,,,,,,,Education,College/University,Gas,1960.0,,8.0,,,,,,,C
+165,471,Trapano,143.0,Lodging/residential,Dormitory,4607.0,49589.0,51.51878965384613,-0.1345562307692307,Europe/London,Yes,,,,,,,,Education,College/University,Electric,1998.0,,8.0,,,,,,,E
+166,470,Trapano,143.0,Lodging/residential,Dormitory,6181.0,66532.0,51.51878965384613,-0.1345562307692307,Europe/London,Yes,,,,,,,,Education,College/University,Gas,1967.0,,10.0,,,,,,,D
+167,452,Trapano,143.0,Lodging/residential,Dormitory,5246.0,56467.0,51.51878965384613,-0.1345562307692307,Europe/London,Yes,,,,,,,,Education,College/University,Gas,1960.0,,9.0,,,,,,,D
+168,409,Trapano,143.0,Entertainment/public assembly,Gymnasium,5948.0,64024.0,51.51878965384613,-0.1345562307692307,Europe/London,Yes,,,,,,,,Education,College/University,Heat network,1967.0,,6.0,,,,,,,G
+169,518,Trapano,143.0,Public services,Library,10984.0,118231.0,51.51878965384613,-0.1345562307692307,Europe/London,Yes,Yes,,,,,,,Education,College/University,Heat network,,,6.0,,,,,,,C
+170,516,Trapano,143.0,Public services,Library,5261.0,56629.0,51.51878965384613,-0.1345562307692307,Europe/London,Yes,Yes,,,,,,,Education,College/University,Heat network,1900.0,,6.0,,,,,,,E
+171,504,Trapano,143.0,Office,Office,4647.0,50020.0,51.51878965384613,-0.1345562307692307,Europe/London,Yes,,,,,,,,Education,College/University,Heat network,,,11.0,,,,,,,
+172,492,Trapano,143.0,Office,Office,4161.0,44789.0,51.51878965384613,-0.1345562307692307,Europe/London,Yes,,,,,,,,Education,College/University,Heat network,1919.0,,5.0,,,,,,,
+173,485,Trapano,143.0,Office,Office,4213.0,45348.0,51.51878965384613,-0.1345562307692307,Europe/London,Yes,,,,,,,,Education,College/University,Heat network,,,4.0,,,,,,,C
+174,507,Trapano,143.0,Office,Office,3724.0,40085.0,51.51878965384613,-0.1345562307692307,Europe/London,Yes,,,,,,,,Education,College/University,Steam,,,4.0,,,,,,,C
+175,494,Trapano,143.0,Office,Office,5358.0,57673.0,51.51878965384613,-0.1345562307692307,Europe/London,Yes,Yes,,,,,,,Education,College/University,Heat network,,,5.0,,,,,,,C
+176,475,Trapano,143.0,Office,Office,1321.0,14219.0,51.51878965384613,-0.1345562307692307,Europe/London,Yes,Yes,,,,,,,Education,College/University,Heat network,,,4.0,,,,,,,
+177,502,Trapano,143.0,Office,Office,2937.0,31614.0,51.51878965384613,-0.1345562307692307,Europe/London,Yes,,,,,,,,Education,College/University,Gas,1956.0,,8.0,,,,,,,D
+178,486,Trapano,143.0,Office,Office,7669.0,82548.0,51.51878965384613,-0.1345562307692307,Europe/London,Yes,,,,,,,,Education,College/University,Heat network but not ours,1977.0,,7.0,,,,,,,F
+179,509,Trapano,143.0,Office,Office,16221.0,174601.0,51.51878965384613,-0.1345562307692307,Europe/London,Yes,Yes,,,,,,,Education,College/University,Heat network,1960.0,,12.0,,,,,,,F
+180,511,Trapano,143.0,Office,Office,7607.0,81881.0,51.51878965384613,-0.1345562307692307,Europe/London,Yes,Yes,,,,,,,Education,College/University,Heat network,1960.0,,8.0,,,,,,,F
+181,476,Trapano,143.0,Office,Office,6099.7,65657.0,51.51878965384613,-0.1345562307692307,Europe/London,Yes,,,,,,,,Education,College/University,Gas,1955.0,,8.0,,,,,,,E
+182,503,Trapano,143.0,Office,Office,2833.1,30495.0,51.51878965384613,-0.1345562307692307,Europe/London,Yes,,,,,,,,Education,College/University,Gas,1997.0,,8.0,,,,,,,D
+183,506,Trapano,143.0,Office,Office,957.0,10301.0,51.51878965384613,-0.1345562307692307,Europe/London,Yes,,,,,,,,Education,College/University,Gas,1970.0,,2.0,,,,,,,E
+184,487,Trapano,143.0,Office,Office,4434.0,47727.0,51.51878965384613,-0.1345562307692307,Europe/London,Yes,,,,,,,,Education,College/University,Gas,1928.0,,6.0,,,,,,,
+185,474,Trapano,143.0,Office,Office,1495.0,16092.0,51.51878965384613,-0.1345562307692307,Europe/London,Yes,,,,,,,,Education,College/University,Gas,1965.0,,3.0,,,,,,,
+186,495,Trapano,143.0,Office,Office,3201.0,34455.0,51.51878965384613,-0.1345562307692307,Europe/London,Yes,,,,,,,,Education,College/University,Heat network,1907.0,,8.0,,,,,,,
+187,498,Trapano,143.0,Office,Office,4802.0,51688.0,51.51878965384613,-0.1345562307692307,Europe/London,Yes,,,,,,,,Education,College/University,Electricity,1930.0,,8.0,,,,,,,F
+722,369,Gunnar,52.0,Other,Animal Kennels,522.0,5619.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,,Government,Animal Control,Gas,1976.0,,1.0,,,,,,,
+723,359,Gunnar,52.0,Other,Campsites,536.0,5769.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,Yes,Government,Public Assembly,Gas,1976.0,,1.0,0.0,,,,,,
+724,122,Gunnar,52.0,Education,College Classroom,10133.0,109071.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,Yes,Education,College/University,Gas,1966.0,,3.0,,,,,,,D
+725,12,Gunnar,52.0,Entertainment/public assembly,Community Center,2887.0,31075.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,Yes,Government,Public Assembly,Gas,1976.0,,2.0,,,,,,,B
+726,72,Gunnar,52.0,Entertainment/public assembly,Community Center,642.0,6910.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,,Government,Public Assembly,Gas,1966.0,,2.0,,,,,,,
+727,38,Gunnar,52.0,Entertainment/public assembly,Community Center,1037.0,11162.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,Yes,Government,Public Assembly,Gas,1919.0,,2.0,,,,,,,C
+728,28,Gunnar,52.0,Entertainment/public assembly,Community Center,3854.0,41484.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,Yes,Government,Public Assembly,Gas,1976.0,,2.0,,,,,,,C
+729,6,Gunnar,52.0,Entertainment/public assembly,Community Center,1422.0,15306.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,Yes,Government,Public Assembly,Gas,1976.0,,2.0,0.0,,,,,,D
+730,62,Gunnar,52.0,Entertainment/public assembly,Community Center,506.0,5447.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,Yes,Government,Public Assembly,Gas,1976.0,,1.0,,,,,,,G
+731,24,Gunnar,52.0,Entertainment/public assembly,Community Center,2588.0,27857.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,Yes,Government,Public Assembly,Gas,1976.0,,2.0,,,,,,,E
+732,37,Gunnar,52.0,Entertainment/public assembly,Community Center,690.0,7427.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,Yes,Government,Public Assembly,Gas,1976.0,,2.0,30.0,,,,,,D
+733,36,Gunnar,52.0,Entertainment/public assembly,Community Center,1187.0,12777.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,Yes,Government,Public Assembly,Gas,1976.0,,2.0,,,,,,,C
+734,16,Gunnar,52.0,Entertainment/public assembly,Community Center,5313.0,57189.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,Yes,Government,Public Assembly,Gas,1976.0,,2.0,,,,,,,C
+735,40,Gunnar,52.0,Entertainment/public assembly,Community Center,683.0,7352.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,Yes,Government,Public Assembly,Gas,1945.0,,1.0,,,,,,,E
+736,26,Gunnar,52.0,Entertainment/public assembly,Community Center,4598.0,49492.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,Yes,Government,Public Assembly,Gas,1976.0,,2.0,,,,,,,E
+737,17,Gunnar,52.0,Entertainment/public assembly,Community Center,815.0,8773.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,Yes,Government,Public Assembly,Gas,1966.0,,1.0,0.0,,,,,,A
+738,52,Gunnar,52.0,Entertainment/public assembly,Community Center,1119.0,12045.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,Yes,Government,Public Assembly,Gas,1976.0,,1.0,,,,,,,E
+739,2,Gunnar,52.0,Entertainment/public assembly,Community Center,811.0,8730.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,Yes,Government,Public Assembly,Gas,1976.0,,1.0,,,,,,,E
+740,69,Gunnar,52.0,Entertainment/public assembly,Community Center,990.0,10656.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,,Government,Public Assembly,Gas,1976.0,,2.0,36.0,,,,,,C
+741,14,Gunnar,52.0,Entertainment/public assembly,Community Center,2887.0,31075.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,Yes,Government,Public Assembly,Gas,1976.0,,2.0,,,,,,,B
+742,71,Gunnar,52.0,Entertainment/public assembly,Community Center,1460.0,15715.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,Yes,Government,Public Assembly,Gas,1966.0,,2.0,,,,,,,C
+743,45,Gunnar,52.0,Entertainment/public assembly,Community Center,642.0,6910.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,Yes,Government,Public Assembly,Gas,1945.0,,1.0,,,,,,,
+744,11,Gunnar,52.0,Entertainment/public assembly,Community Center,4392.0,47275.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,Yes,Government,Public Assembly,Gas,1976.0,,2.0,,,,,,,D
+745,66,Gunnar,52.0,Entertainment/public assembly,Community Center,882.0,9494.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,,Government,Public Assembly,Gas,1945.0,,2.0,,,,,,,C
+746,63,Gunnar,52.0,Entertainment/public assembly,Community Center,443.0,4768.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,,Government,Public Assembly,Gas,1976.0,,1.0,,,,,,,
+747,294,Gunnar,52.0,Healthcare,Creamatorium,1716.0,18471.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,Yes,Government,"City, County, State",Gas,1966.0,,1.0,0.0,,,,,,G
+748,307,Gunnar,52.0,Lodging/residential,Dormitory,705.0,7589.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,Yes,Government,Social Services,Gas,1976.0,,3.0,34.0,,,,,,D
+749,301,Gunnar,52.0,Manufacturing/industrial,Greenhouse,588.0,6329.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,Yes,Government,"City, County, State",Gas,1919.0,,2.0,10.0,,,,,,
+750,305,Gunnar,52.0,Manufacturing/industrial,Greenhouse,965.0,10387.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,Yes,Government,Public Assembly,Gas,1976.0,,1.0,,,,,,,C
+751,43,Gunnar,52.0,Entertainment/public assembly,Gymnasium,3373.0,36307.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,Yes,Government,Public Assembly,Gas,1976.0,,2.0,,,,,,,
+752,5,Gunnar,52.0,Entertainment/public assembly,Gymnasium,13908.0,149704.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,Yes,Government,Public Assembly,Gas,1976.0,,8.0,,,,,,,D
+753,311,Gunnar,52.0,Lodging/residential,Hotel,1587.0,17082.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,Yes,Hospitality,Hotel,Gas,1919.0,,3.0,,,,,,,C
+754,300,Gunnar,52.0,Manufacturing/industrial,Industrial,358.0,3853.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,,Government,Water & Wastewater Treatment Facility,Gas,1976.0,,1.0,15.0,,,,,,
+755,298,Gunnar,52.0,Manufacturing/industrial,Industrial,8426.0,90697.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,Yes,Government,Water & Wastewater Treatment Facility,Gas,1976.0,,2.0,104.0,,,,,,D
+756,376,Gunnar,52.0,Public services,Library,657.0,7072.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,Yes,Government,Library,Gas,1919.0,,2.0,,,,,,,
+757,374,Gunnar,52.0,Public services,Library,5664.9,60977.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,Yes,Government,Library,Gas,1976.0,,6.0,600.0,,,,,,D
+758,378,Gunnar,52.0,Public services,Library,4032.0,43400.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,,Government,Public Assembly,Gas,1976.0,,3.0,100.0,,,,,,
+759,375,Gunnar,52.0,Public services,Library,915.0,9849.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,,Government,Library,Gas,1976.0,,2.0,4.0,,,,,,
+760,370,Gunnar,52.0,Public services,Library,3889.0,41861.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,Yes,Government,Library,Gas,1919.0,,3.0,,,,,,,D
+761,372,Gunnar,52.0,Public services,Library,1892.0,20365.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,,Government,Library,Gas,1976.0,,2.0,,,,,,,
+762,293,Gunnar,52.0,Food sales and service,Market,3280.0,35306.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,,Government,Public Assembly,Gas,1919.0,,2.0,,,,,,,A
+763,21,Gunnar,52.0,Entertainment/public assembly,Museum,5960.0,64153.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,Yes,Government,Public Assembly,Gas,,,5.0,15.0,,,,,,D
+764,355,Gunnar,52.0,Office,Office,732.0,7879.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,,Government,"City, County, State",Gas,1919.0,,2.0,,,,,,,
+765,342,Gunnar,52.0,Office,Office,432.0,4650.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,,Government,"City, County, State",Gas,1976.0,,2.0,33.0,,,,,,
+766,349,Gunnar,52.0,Office,Office,14165.0,152471.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,Yes,Government,"City, County, State",Gas,1919.0,,3.0,293.0,,,,,,E
+767,348,Gunnar,52.0,Office,Office,25087.0,270034.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,Yes,Government,"City, County, State",Gas,1976.0,,5.0,1122.0,,,,,,F
+768,334,Gunnar,52.0,Office,Office,1542.0,16598.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,Yes,Government,"City, County, State",Oil,1976.0,,2.0,0.0,,,,,,C
+769,337,Gunnar,52.0,Office,Office,1200.0,12917.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,,Government,"City, County, State",Gas,1919.0,,2.0,,,,,,,
+770,330,Gunnar,52.0,Office,Office,972.0,10463.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,,Government,"City, County, State",Gas,1976.0,,2.0,,,,,,,
+771,341,Gunnar,52.0,Office,Office,1134.0,12206.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,,Government,"City, County, State",Gas,1976.0,,2.0,,,,,,,
+772,329,Gunnar,52.0,Office,Office,501.0,5393.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,,Government,"City, County, State",Gas,1919.0,,2.0,,,,,,,
+773,321,Gunnar,52.0,Office,Office,3365.0,36221.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,Yes,Government,"City, County, State",Gas,1976.0,,4.0,340.0,,,,,,E
+774,313,Gunnar,52.0,Office,Office,633.0,6814.0,51.49783804108846,-3.186245571244898,Europe/London,,,,,,,,Yes,Government,"City, County, State",Gas,1976.0,,1.0,33.0,,,,,,D
+775,332,Gunnar,52.0,Office,Office,4859.0,52302.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,Yes,Government,"City, County, State",Gas,1966.0,,2.0,,,,,,,E
+776,347,Gunnar,52.0,Office,Office,1063.0,11442.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,Yes,Government,"City, County, State",Gas,1976.0,,1.0,,,,,,,D
+777,336,Gunnar,52.0,Office,Office,1103.0,11873.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,,Government,"City, County, State",Gas,1966.0,,1.0,12.0,,,,,,G
+778,344,Gunnar,52.0,Office,Office,1805.0,19429.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,Yes,Government,"City, County, State",Gas,1945.0,,2.0,133.0,,,,,,E
+779,339,Gunnar,52.0,Office,Office,3962.0,42647.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,,Government,"City, County, State",Gas,1976.0,,1.0,40.0,,,,,,C
+780,323,Gunnar,52.0,Office,Office,689.0,7416.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,Yes,Government,"City, County, State",Gas,1976.0,,2.0,,,,,,,C
+781,316,Gunnar,52.0,Office,Office,5336.0,57436.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,Yes,Government,"City, County, State",Gas,1976.0,,3.0,556.0,,,,,,F
+782,53,Gunnar,52.0,Entertainment/public assembly,Park,522.0,5619.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,,Government,Public Assembly,Gas,1976.0,,2.0,,,,,,,
+783,260,Gunnar,52.0,Education,Primary/Secondary Classroom,1578.0,16985.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,Yes,Education,Primary/Secondary School,Gas,1976.0,,1.0,236.0,,,,,,F
+784,210,Gunnar,52.0,Education,Primary/Secondary Classroom,2844.0,30613.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,,Education,Primary/Secondary School,Gas,1976.0,,4.0,,,,,,,G
+785,207,Gunnar,52.0,Education,Primary/Secondary Classroom,11247.0,121062.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,Yes,Education,Primary/Secondary School,Gas,1976.0,,3.0,1395.0,,,,,,C
+786,244,Gunnar,52.0,Education,Primary/Secondary Classroom,1769.0,19041.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,Yes,Education,Primary/Secondary School,Gas,1976.0,,2.0,262.0,,,,,,C
+787,86,Gunnar,52.0,Education,Primary/Secondary Classroom,2692.0,28976.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,Yes,Education,Primary/Secondary School,Gas,1919.0,,3.0,524.0,,,,,,D
+788,74,Gunnar,52.0,Education,Primary/Secondary Classroom,736.0,7922.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,Yes,Education,Primary/Secondary School,Gas,1966.0,,1.0,101.0,,,,,,
+789,204,Gunnar,52.0,Education,Primary/Secondary Classroom,1737.0,18697.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,Yes,Education,Primary/Secondary School,Gas,1919.0,,2.0,300.0,,,,,,E
+790,143,Gunnar,52.0,Education,Primary/Secondary Classroom,1205.0,12970.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,Yes,Education,Primary/Secondary School,Gas,1976.0,,1.0,40.0,,,,,,E
+791,226,Gunnar,52.0,Education,Primary/Secondary Classroom,1295.0,13939.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,Yes,Education,Primary/Secondary School,Gas,1976.0,,1.0,149.0,,,,,,D
+792,268,Gunnar,52.0,Education,Primary/Secondary Classroom,8711.0,93764.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,Yes,Education,Primary/Secondary School,Gas,1945.0,,3.0,956.0,,,,,,C
+793,242,Gunnar,52.0,Education,Primary/Secondary Classroom,1014.0,10915.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,Yes,Education,Primary/Secondary School,Gas,1976.0,,1.0,197.0,,,,,,D
+794,264,Gunnar,52.0,Education,Primary/Secondary Classroom,1065.0,11464.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,Yes,Education,Primary/Secondary School,Gas,1976.0,,1.0,235.0,,,,,,D
+795,107,Gunnar,52.0,Education,Primary/Secondary Classroom,11954.9,128682.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,Yes,Education,Primary/Secondary School,Gas,1966.0,,4.0,1500.0,,,,,,C
+796,174,Gunnar,52.0,Education,Primary/Secondary Classroom,2253.0,24251.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,Yes,Education,Primary/Secondary School,Gas,1966.0,,2.0,322.0,,,,,,C
+797,235,Gunnar,52.0,Education,Primary/Secondary Classroom,3211.0,34563.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,Yes,Education,Primary/Secondary School,Gas,1966.0,,1.0,317.0,,,,,,D
+798,203,Gunnar,52.0,Education,Primary/Secondary Classroom,2152.0,23164.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,,Education,Primary/Secondary School,Gas,1976.0,,1.0,,,,,,,
+799,250,Gunnar,52.0,Education,Primary/Secondary Classroom,1584.0,17050.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,Yes,Education,Primary/Secondary School,Gas,1966.0,,1.0,389.0,,,,,,D
+800,151,Gunnar,52.0,Education,Primary/Secondary Classroom,2193.0,23605.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,Yes,Education,Primary/Secondary School,Gas,1976.0,,1.0,392.0,,,,,,D
+801,153,Gunnar,52.0,Education,Primary/Secondary Classroom,2572.0,27685.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,Yes,Education,Primary/Secondary School,Gas,1919.0,,2.0,414.0,,,,,,D
+802,184,Gunnar,52.0,Education,Primary/Secondary Classroom,2418.0,26027.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,Yes,Education,Primary/Secondary School,Gas,1919.0,,3.0,241.0,,,,,,D
+803,170,Gunnar,52.0,Education,Primary/Secondary Classroom,1047.0,11270.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,,Education,Primary/Secondary School,Gas,1976.0,,1.0,71.0,,,,,,C
+804,157,Gunnar,52.0,Education,Primary/Secondary Classroom,1188.0,12788.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,Yes,Education,Primary/Secondary School,Gas,1966.0,,1.0,53.0,,,,,,E
+805,111,Gunnar,52.0,Education,Primary/Secondary Classroom,2154.0,23185.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,Yes,Education,Primary/Secondary School,Gas,1966.0,,2.0,230.0,,,,,,C
+806,77,Gunnar,52.0,Education,Primary/Secondary Classroom,9516.0,102429.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,Yes,Education,Primary/Secondary School,Gas,1945.0,,4.0,1598.0,,,,,,E
+807,190,Gunnar,52.0,Education,Primary/Secondary Classroom,2143.0,23067.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,Yes,Education,Primary/Secondary School,Gas,1976.0,,2.0,202.0,,,,,,C
+808,163,Gunnar,52.0,Education,Primary/Secondary Classroom,1123.0,12088.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,Yes,Education,Primary/Secondary School,Gas,1919.0,,4.0,29.0,,,,,,E
+809,104,Gunnar,52.0,Education,Primary/Secondary Classroom,1432.0,15414.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,Yes,Education,Primary/Secondary School,Gas,1976.0,,1.0,214.0,,,,,,D
+810,247,Gunnar,52.0,Education,Primary/Secondary Classroom,6993.0,75272.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,,Education,Primary/Secondary School,Gas,1966.0,,2.0,741.0,,,,,,C
+811,282,Gunnar,52.0,Education,Primary/Secondary Classroom,2215.0,23842.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,Yes,Education,Primary/Secondary School,Gas,1945.0,,1.0,464.0,,,,,,D
+812,267,Gunnar,52.0,Education,Primary/Secondary Classroom,2570.0,27663.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,Yes,Education,Primary/Secondary School,Gas,1966.0,,2.0,348.0,,,,,,C
+813,271,Gunnar,52.0,Education,Primary/Secondary Classroom,2132.0,22949.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,Yes,Education,Primary/Secondary School,Gas,1976.0,,1.0,269.0,,,,,,D
+814,118,Gunnar,52.0,Education,Primary/Secondary Classroom,1391.0,14973.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,Yes,Education,Primary/Secondary School,Gas,1976.0,,2.0,197.0,,,,,,E
+815,212,Gunnar,52.0,Education,Primary/Secondary Classroom,811.0,8730.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,,Education,Primary/Secondary School,Electricity,1976.0,,1.0,192.0,,,,,,F
+816,269,Gunnar,52.0,Education,Primary/Secondary Classroom,2151.0,23153.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,Yes,Education,Primary/Secondary School,Gas,1976.0,,2.0,403.0,,,,,,C
+817,172,Gunnar,52.0,Education,Primary/Secondary Classroom,3462.0,37265.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,Yes,Education,Primary/Secondary School,Gas,1919.0,,3.0,362.0,,,,,,D
+818,246,Gunnar,52.0,Education,Primary/Secondary Classroom,2678.0,28826.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,Yes,Education,Primary/Secondary School,Gas,1976.0,,2.0,284.0,,,,,,C
+819,82,Gunnar,52.0,Education,Primary/Secondary Classroom,2403.0,25866.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,Yes,Education,Primary/Secondary School,Gas,1919.0,,2.0,427.0,,,,,,C
+820,215,Gunnar,52.0,Education,Primary/Secondary Classroom,2635.0,28363.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,Yes,Education,Primary/Secondary School,Gas,1919.0,,2.0,336.0,,,,,,D
+821,270,Gunnar,52.0,Education,Primary/Secondary Classroom,1691.0,18202.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,Yes,Education,Primary/Secondary School,Gas,1919.0,,2.0,333.0,,,,,,D
+822,181,Gunnar,52.0,Education,Primary/Secondary Classroom,11285.0,121471.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,Yes,Education,Primary/Secondary School,Gas,1966.0,,3.0,1140.0,,,,,,D
+823,80,Gunnar,52.0,Education,Primary/Secondary Classroom,2939.0,31635.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,Yes,Education,Primary/Secondary School,Gas,1966.0,,3.0,517.0,,,,,,C
+824,275,Gunnar,52.0,Education,Primary/Secondary Classroom,14868.0,160038.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,Yes,Education,Primary/Secondary School,Gas,1966.0,,4.0,1598.0,,,,,,D
+825,87,Gunnar,52.0,Education,Primary/Secondary Classroom,6382.0,68695.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,Yes,Education,Primary/Secondary School,Gas,1966.0,,2.0,909.0,,,,,,D
+826,173,Gunnar,52.0,Education,Primary/Secondary Classroom,1048.0,11281.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,Yes,Education,Primary/Secondary School,Gas,1976.0,,1.0,258.0,,,,,,C
+827,228,Gunnar,52.0,Education,Primary/Secondary Classroom,2937.0,31614.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,Yes,Education,Primary/Secondary School,Gas,1976.0,,2.0,293.0,,,,,,C
+828,195,Gunnar,52.0,Education,Primary/Secondary Classroom,1589.0,17104.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,Yes,Education,Primary/Secondary School,Gas,1966.0,,2.0,124.0,,,,,,E
+829,292,Gunnar,52.0,Education,Primary/Secondary Classroom,8255.0,88856.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,Yes,Education,Primary/Secondary School,Gas,1976.0,,2.0,1071.0,,,,,,D
+830,168,Gunnar,52.0,Education,Primary/Secondary Classroom,1281.0,13789.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,Yes,Education,Primary/Secondary School,Gas,1919.0,,1.0,193.0,,,,,,
+831,79,Gunnar,52.0,Education,Primary/Secondary Classroom,11200.9,120566.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,Yes,Education,Primary/Secondary School,Gas,1945.0,,2.0,875.0,,,,,,D
+832,120,Gunnar,52.0,Education,Primary/Secondary Classroom,2061.0,22184.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,Yes,Education,Primary/Secondary School,Gas,1919.0,,2.0,387.0,,,,,,D
+833,114,Gunnar,52.0,Education,Primary/Secondary Classroom,12924.0,139113.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,Yes,Education,Primary/Secondary School,Gas,1976.0,,3.0,1695.0,,,,,,C
+834,213,Gunnar,52.0,Education,Primary/Secondary Classroom,2815.0,30300.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,Yes,Education,Primary/Secondary School,Gas,1966.0,,2.0,304.0,,,,,,D
+835,130,Gunnar,52.0,Education,Primary/Secondary Classroom,1597.0,17190.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,Yes,Education,Primary/Secondary School,Gas,1919.0,,2.0,219.0,,,,,,E
+836,237,Gunnar,52.0,Education,Primary/Secondary Classroom,2991.0,32195.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,Yes,Education,Primary/Secondary School,Gas,1919.0,,2.0,583.0,,,,,,D
+837,127,Gunnar,52.0,Education,Primary/Secondary Classroom,2927.0,31506.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,Yes,Education,Primary/Secondary School,Gas,1919.0,,2.0,212.0,,,,,,C
+838,231,Gunnar,52.0,Education,Primary/Secondary Classroom,4373.0,47071.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,Yes,Education,Primary/Secondary School,Gas,1945.0,,2.0,219.0,,,,,,C
+839,217,Gunnar,52.0,Education,Primary/Secondary Classroom,11710.0,126045.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,Yes,Education,Primary/Secondary School,Gas,1966.0,,4.0,1164.0,,,,,,E
+840,280,Gunnar,52.0,Education,Primary/Secondary Classroom,1086.0,11690.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,Yes,Education,Primary/Secondary School,Gas,1976.0,,1.0,201.0,,,,,,D
+841,109,Gunnar,52.0,Education,Primary/Secondary Classroom,2961.0,31872.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,Yes,Education,Primary/Secondary School,Gas,1919.0,,2.0,383.0,,,,,,D
+842,169,Gunnar,52.0,Education,Primary/Secondary Classroom,2238.0,24090.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,Yes,Education,Primary/Secondary School,Gas,1976.0,,1.0,313.0,,,,,,C
+843,189,Gunnar,52.0,Education,Primary/Secondary Classroom,2555.0,27502.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,Yes,Education,Primary/Secondary School,Gas,1976.0,,2.0,315.0,,,,,,E
+844,139,Gunnar,52.0,Education,Primary/Secondary Classroom,2708.0,29149.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,Yes,Education,Primary/Secondary School,Gas,1919.0,,2.0,359.0,,,,,,D
+845,99,Gunnar,52.0,Education,Primary/Secondary Classroom,3323.0,35768.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,,Education,Primary/Secondary School,Gas,1966.0,,1.0,456.0,,,,,,D
+846,259,Gunnar,52.0,Education,Primary/Secondary Classroom,6149.0,66187.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,Yes,Education,Primary/Secondary School,Gas,1976.0,,1.0,270.0,,,,,,D
+847,214,Gunnar,52.0,Education,Primary/Secondary Classroom,1201.0,12927.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,Yes,Education,Primary/Secondary School,Gas,1976.0,,1.0,230.0,,,,,,E
+848,159,Gunnar,52.0,Education,Primary/Secondary Classroom,2164.0,23293.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,Yes,Education,Primary/Secondary School,Gas,1976.0,,1.0,402.0,,,,,,D
+849,175,Gunnar,52.0,Education,Primary/Secondary Classroom,2777.0,29891.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,Yes,Education,Primary/Secondary School,Gas,1966.0,,3.0,489.0,,,,,,C
+850,154,Gunnar,52.0,Education,Primary/Secondary Classroom,3157.0,33982.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,Yes,Education,Primary/Secondary School,Gas,1976.0,,3.0,353.0,,,,,,C
+851,75,Gunnar,52.0,Education,Primary/Secondary Classroom,1877.0,20204.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,Yes,Education,Primary/Secondary School,Gas,1976.0,,1.0,396.0,,,,,,C
+852,135,Gunnar,52.0,Education,Primary/Secondary Classroom,9005.0,96929.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,Yes,Education,Primary/Secondary School,Gas,1966.0,,3.0,1199.0,,,,,,C
+853,279,Gunnar,52.0,Education,Primary/Secondary Classroom,2619.0,28191.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,Yes,Education,Primary/Secondary School,Gas,1919.0,,1.0,515.0,,,,,,C
+854,206,Gunnar,52.0,Education,Primary/Secondary Classroom,14474.9,155807.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,Yes,Education,Primary/Secondary School,Biomass,2013.0,,2.0,1400.0,,,,,,
+855,199,Gunnar,52.0,Education,Primary/Secondary Classroom,3984.0,42883.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,Yes,Education,Primary/Secondary School,Gas,1976.0,,2.0,64.0,,,,,,B
+856,257,Gunnar,52.0,Education,Primary/Secondary Classroom,8794.0,94658.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,Yes,Education,Primary/Secondary School,Gas,1976.0,,3.0,856.0,,,,,,G
+857,182,Gunnar,52.0,Education,Primary/Secondary Classroom,2335.0,25134.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,Yes,Government,Primary/Secondary School,Gas,1966.0,,2.0,441.0,,,,,,C
+858,277,Gunnar,52.0,Education,Primary/Secondary Classroom,1374.0,14790.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,,Government,Primary/Secondary School,Gas,1976.0,,1.0,,,,,,,D
+859,191,Gunnar,52.0,Education,Primary/Secondary Classroom,8866.0,95433.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,Yes,Government,Primary/Secondary School,Gas,1966.0,,4.0,1173.0,,,,,,D
+860,243,Gunnar,52.0,Education,Primary/Secondary Classroom,12732.0,137046.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,Yes,Government,Primary/Secondary School,Gas,1966.0,,2.0,1104.0,,,,,,C
+861,288,Gunnar,52.0,Education,Primary/Secondary Classroom,3528.0,37975.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,Yes,Government,Primary/Secondary School,Gas,1976.0,,1.0,400.0,,,,,,
+862,103,Gunnar,52.0,Education,Primary/Secondary Classroom,1078.0,11603.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,Yes,Government,Primary/Secondary School,Gas,1945.0,,2.0,235.0,,,,,,C
+863,126,Gunnar,52.0,Education,Primary/Secondary Classroom,1303.0,14025.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,Yes,Government,Primary/Secondary School,Gas,1966.0,,1.0,171.0,,,,,,F
+864,133,Gunnar,52.0,Education,Primary/Secondary Classroom,2182.0,23487.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,Yes,Government,Primary/Secondary School,Gas,1966.0,,2.0,,,,,,,C
+865,42,Gunnar,52.0,Entertainment/public assembly,Sports Stadium,2957.0,31829.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,,Government,Public Assembly,Gas,1976.0,,2.0,,,,,,,B
+866,54,Gunnar,52.0,Entertainment/public assembly,Sports Stadium,1132.0,12185.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,Yes,Government,Public Assembly,Gas,1976.0,,2.0,55.0,,,,,,G
+867,39,Gunnar,52.0,Entertainment/public assembly,Theater,4519.0,48642.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,Yes,Government,Public Assembly,Gas,1919.0,,5.0,,,,,,,B
+868,381,Gunnar,52.0,Warehouse/storage,Warehouse,1457.0,15683.0,51.49783804108846,-3.186245571244898,Europe/London,Yes,,,,,,,,Government,"City, County, State",Gas,1966.0,,2.0,200.0,,,,,,G
+1170,527,Vorr,,Office,Office,3410.0,36705.0,51.49984,-0.124663,Europe/London,Yes,,,,,,,,Government,Other Government Buildings,Gas,1902.0,,7.0,264.0,,,,,,E
+1171,519,Vorr,,Office,Office,22568.9,242930.0,51.49984,-0.124663,Europe/London,Yes,,,,,,,Yes,Government,Other Government Buildings,Gas,,,11.0,410.0,,,,,,G
+1172,535,Vorr,,Office,Office,1058.0,11388.0,51.49984,-0.124663,Europe/London,Yes,,,,,,,Yes,Government,Other Government Buildings,Gas,,,5.0,46.0,,,,,,E
+1173,532,Vorr,,Office,Office,13995.0,150641.0,51.49984,-0.124663,Europe/London,Yes,,,,,,,,Government,Other Government Buildings,Gas,1915.0,,10.0,818.0,,,,,,E
+1174,530,Vorr,,Office,Office,1719.0,18503.0,51.49984,-0.124663,Europe/London,Yes,,,,,,,,Government,Other Government Buildings,Electricity,1937.0,,7.0,97.0,,,,,,F
+1175,534,Vorr,,Office,Office,10203.0,109824.0,51.49984,-0.124663,Europe/London,Yes,,,,,,,Yes,Government,Other Government Buildings,Gas,1906.0,,9.0,393.0,,,,,,F
+1176,526,Vorr,,Office,Office,10905.0,117380.0,51.49984,-0.124663,Europe/London,Yes,,,,,,,,Government,Other Government Buildings,Gas,,,10.0,525.0,,,,,,E
+1177,523,Vorr,,Office,Office,5630.0,60601.0,51.49984,-0.124663,Europe/London,Yes,,,,,,,Yes,Government,Other Government Buildings,Gas,1906.0,,10.0,283.0,,,,,,E
+1178,536,Vorr,,Office,Office,18098.0,194805.0,51.49984,-0.124663,Europe/London,Yes,,,,,,,,Government,Other Government Buildings,Gas,2000.0,,10.0,721.0,,,,,,E
+1200,549,Nymeria,13.0,Education,College Classroom,11008.0,118489.0,53.34979999999997,6.2603,Europe/Dublin,Yes,,,,,,,,Education,College/University,,,,,,,,,,,
+1201,629,Nymeria,13.0,Retail,Retail,363.0,3907.0,53.34979999999997,6.2603,Europe/Dublin,Yes,,,,,,,,Education,College/University,,,,1.0,,,,,,,
+1202,616,Nymeria,13.0,Office,Office,1355.0,14585.0,53.34979999999997,6.2603,Europe/Dublin,Yes,,,,,,,Yes,Education,College/University,,,,,,,,,,,
+1203,605,Nymeria,13.0,Office,Office,5036.0,54207.0,53.34979999999997,6.2603,Europe/Dublin,Yes,,,,,,,,Education,College/University,,,,,,,,,,,
+1204,585,Nymeria,13.0,Education,College Classroom,818.0,8805.0,53.34979999999997,6.2603,Europe/Dublin,Yes,,,,Yes,,,Yes,Education,College/University,,,,,,,,,,,
+1205,632,Nymeria,13.0,Technology/science,Data Centre,914.0,9838.0,53.34979999999997,6.2603,Europe/Dublin,Yes,,,,,,,,Education,College/University,,,,,,,,,,,
+1206,573,Nymeria,13.0,Education,College Classroom,2803.0,30171.0,53.34979999999997,6.2603,Europe/Dublin,Yes,,,,,,,Yes,Education,College/University,,,,3.0,,,,,,,
+1207,603,Nymeria,13.0,Office,Office,11795.0,126960.0,53.34979999999997,6.2603,Europe/Dublin,Yes,,,,Yes,,,,Education,College/University,,,,,,,,,,,
+1208,572,Nymeria,13.0,Education,School,750.0,8073.0,53.34979999999997,6.2603,Europe/Dublin,Yes,,,,Yes,,,,Education,College/University,,,,,,,,,,,
+1209,619,Nymeria,13.0,Office,Office,2745.0,29547.0,53.34979999999997,6.2603,Europe/Dublin,Yes,,,,,,,,Education,College/University,,,,,,,,,,,
+1210,608,Nymeria,13.0,Office,Office,2591.0,27889.0,53.34979999999997,6.2603,Europe/Dublin,Yes,,,,,,,,Education,College/University,,,,,,,,,,,
+1211,597,Nymeria,13.0,Education,College Classroom,13998.0,150673.0,53.34979999999997,6.2603,Europe/Dublin,Yes,,,,Yes,,,Yes,Education,College/University,,,,4.0,,,,,,,C1
+1212,623,Nymeria,13.0,Office,Office,3115.0,33530.0,53.34979999999997,6.2603,Europe/Dublin,Yes,,,,Yes,,,Yes,Education,College/University,,,,,,,,,,,
+1213,574,Nymeria,13.0,Education,College Classroom,18706.0,201350.0,53.34979999999997,6.2603,Europe/Dublin,Yes,,,,,,,Yes,Education,College/University,,,,,,,,,,,
+1214,626,Nymeria,13.0,Public services,Library,23500.0,252952.0,53.34979999999997,6.2603,Europe/Dublin,Yes,,,,,,,,Education,College/University,,,,,,,,,,,
+1215,554,Nymeria,13.0,Education,College Classroom,25605.0,275610.0,53.34979999999997,6.2603,Europe/Dublin,Yes,,,,,,,,Education,College/University,,,,,,,,,,,C1
+1216,598,Nymeria,13.0,Education,College Classroom,8770.0,94399.0,53.34979999999997,6.2603,Europe/Dublin,Yes,,,,Yes,,,,Education,College/University,,,,,,,,,,,
+1217,600,Nymeria,13.0,Office,Office,4691.0,50493.0,53.34979999999997,6.2603,Europe/Dublin,Yes,,,,Yes,,,,Education,College/University,,,,2.0,,,,,,,
+1218,557,Nymeria,13.0,Education,College Classroom,2639.0,28406.0,53.34979999999997,6.2603,Europe/Dublin,Yes,,,,Yes,,,Yes,Education,College/University,,,,1.0,,,,,,,
+1219,631,Nymeria,13.0,Retail,Retail,4209.0,45305.0,53.34979999999997,6.2603,Europe/Dublin,Yes,,,,Yes,,,Yes,Education,College/University,,,,2.0,,,,,,,
+1220,614,Nymeria,13.0,Office,Office,2005.0,21582.0,53.34979999999997,6.2603,Europe/Dublin,Yes,,,,,,,,Education,College/University,,,,,,,,,,,
+1221,595,Nymeria,13.0,Education,College Classroom,19044.9,204998.0,53.34979999999997,6.2603,Europe/Dublin,Yes,,,,,,,Yes,Education,College/University,,,,4.0,,,,,,,D1
+1222,570,Nymeria,13.0,Education,College Classroom,8056.0,86714.0,53.34979999999997,6.2603,Europe/Dublin,Yes,,,,,,,,Education,College/University,,,,4.0,,,,,,,D1
+1223,555,Nymeria,13.0,Education,College Classroom,6778.0,72958.0,53.34979999999997,6.2603,Europe/Dublin,Yes,,,,,,,,Education,College/University,,,,,,,,,,,
+1224,571,Nymeria,13.0,Education,College Classroom,2450.0,26372.0,53.34979999999997,6.2603,Europe/Dublin,Yes,,,,,,,Yes,Education,College/University,,,,4.0,,,,,,,
+1225,588,Nymeria,13.0,Education,College Classroom,7836.0,84346.0,53.34979999999997,6.2603,Europe/Dublin,Yes,,,,,,,,Education,College/University,,,,,,,,,,,
+1226,538,Nymeria,13.0,Entertainment/public assembly,Fitness Center,10794.0,116186.0,53.34979999999997,6.2603,Europe/Dublin,Yes,,,,Yes,,,Yes,Education,College/University,,,,,,,,,,,
+1227,537,Nymeria,13.0,Entertainment/public assembly,Fitness Center,6671.0,71806.0,53.34979999999997,6.2603,Europe/Dublin,Yes,,,,Yes,,,,Education,College/University,,,,,,,,,,,
+1228,627,Nymeria,13.0,Retail,Retail,4108.0,44218.0,53.34979999999997,6.2603,Europe/Dublin,Yes,,,,Yes,,,,Education,College/University,,,,,,,,,,,
+1229,561,Nymeria,13.0,Education,College Classroom,6117.0,65843.0,53.34979999999997,6.2603,Europe/Dublin,Yes,,,,,,,,Education,College/University,,,,,,,,,,,
+1230,583,Nymeria,13.0,Education,College Classroom,5403.0,58157.0,53.34979999999997,6.2603,Europe/Dublin,Yes,,,,Yes,,,,Education,College/University,,,,,,,,,,,
+1231,579,Nymeria,13.0,Education,College Classroom,12190.0,131212.0,53.34979999999997,6.2603,Europe/Dublin,Yes,,,,Yes,,,Yes,Education,College/University,,,,,,,,,,,
+1232,615,Nymeria,13.0,Office,Office,1129.0,12152.0,53.34979999999997,6.2603,Europe/Dublin,Yes,,,,,,,,Education,College/University,,,,,,,,,,,
+1233,551,Nymeria,13.0,Education,College Classroom,5184.0,55800.0,53.34979999999997,6.2603,Europe/Dublin,Yes,,,,,,,,Education,College/University,,,,,,,,,,,
+1234,563,Nymeria,13.0,Education,College Classroom,11678.0,125701.0,53.34979999999997,6.2603,Europe/Dublin,Yes,,,,Yes,,,Yes,Education,College/University,,,,,,,,,,,
+1235,553,Nymeria,13.0,Education,College Classroom,10494.0,112956.0,53.34979999999997,6.2603,Europe/Dublin,Yes,,,,Yes,,,Yes,Education,College/University,,,,,,,,,,,
+1629,399,Korv,,Healthcare,Hospital,17993.0,193675.0,51.52193899999999,-0.120069,Europe/London,Yes,,,,,,,,Healthcare,Hospital,District Heating,1994.0,,7.0,,,,,,,F
+1630,394,Korv,,Healthcare,Hospital,17735.0,190898.0,51.52193899999999,-0.120069,Europe/London,Yes,,,,,,,,Healthcare,Hospital,District Heating,2012.0,,10.0,,,,,,,F
+1631,389,Korv,,Healthcare,Hospital,17193.0,185064.0,51.52193899999999,-0.120069,Europe/London,Yes,,,,,,,,Healthcare,Hospital,District Heating,1936.0,,10.0,,,,,,,F
+1632,392,Korv,,Healthcare,Hospital,5399.0,58114.0,51.52193899999999,-0.120069,Europe/London,Yes,,,,,,,,Healthcare,Hospital,District Heating,1954.0,,6.0,,,,,,,F
+1633,382,Korv,,Healthcare,Hospital,1749.0,18826.0,51.52193899999999,-0.120069,Europe/London,Yes,,,,,,,,Healthcare,Hospital,Boiler fed central heating,,,8.0,,,,,,,F
+1634,403,Korv,,Lodging/residential,Hotel,3489.0,37555.0,51.52193899999999,-0.120069,Europe/London,Yes,,,,,,,,Hospitality,Hotel,Gas Boilers,2006.0,,7.0,,,,,,,F
+1635,406,Korv,,Technology/science,Laboratory,5931.0,63841.0,51.52193899999999,-0.120069,Europe/London,Yes,,,,,,,,Healthcare,Laboratory,District Heating,1996.0,,7.0,,,,,,,F
