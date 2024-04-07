@@ -1,0 +1,6 @@
+python-opencv
+numpy
+matplotlib
+seaborn
+torchvision
+torch

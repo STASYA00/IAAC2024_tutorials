@@ -1,0 +1,3 @@
+[submodule "deep_sort"]
+	path = deep_sort
+	url = https://github.com/STASYA00/deep_sort.git
