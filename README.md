@@ -108,10 +108,29 @@ Open the ```notebooks/01_data_cleaning.ipynb``` in [colab](https://colab.researc
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+All teaching material is made available under a [Creative Commons Attribution-ShareAlike 4.0 International licence](https://creativecommons.org/licenses/by-sa/4.0/legalcode).
+
+In simpler words you __can__:
+
+* share and distribute the material
+* adapt the material to your needs: transform, mix and build upon it
+
+Nevertheless you __must__:
+
+* give appropriate [credit](#credit)
+* provide the link to the license and the original material and indicate the changes that were made.
+* distribute the material under the same license as the original or [compatible ones](https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+
+## How to cite
+
+> S. Fedorova, ML algorithms for architects, (2024), GitHub repository, https://github.com/STASYA00/IAAC2024_tutorials/
+
+or use Github citation on the right of the page for APA or bibtex formats
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 ## Contact
@@ -127,6 +146,7 @@ Stasja - [@stasya00](https://stasyafedorova.wixsite.com/designautomation) - [e-m
 
 * [Angelos Chronis](https://iaac.net/dt-team/angelos-chronis), [Serjoscha Düring](https://iaac.net/dt-team/serjoscha-duering/) - the professors coleading the course and defining the scope
 * [IAAC](https://iaac.net/) - the university hosting the workshop
+* [University of Helsinki](https://www.helsinki.fi/sv), in particular [Automating GIS processes course 2023](https://autogis-site.readthedocs.io/en/latest/course-info/general-information.html) the material from which was used for the [quickstart #2](./quickstarts/02_osm_data.ipynb)
 * [My favorite README template](https://github.com/othneildrew/Best-README-Template)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

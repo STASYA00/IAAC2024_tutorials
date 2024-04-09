@@ -3,7 +3,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 fysik2.md
-*.mp4 
+*2.mp4
+*3.mp4 
 *.avi
 *.pt
 # C extensions

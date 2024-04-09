@@ -1,0 +1,11 @@
+cff-version: 1.0.0
+message: "If you use these materials, please cite it as below."
+authors:
+- family-names: "Fedorova"
+  given-names: "Stanislava"
+  orcid: "https://orcid.org/0009-0003-4293-7985"
+title: "ML algorithms for architects"
+version: 1.0.0
+# doi: 10.5281/zenodo.1234
+date-released: 2024-04-09
+url: "https://github.com/STASYA00/IAAC2024_tutorials/"
