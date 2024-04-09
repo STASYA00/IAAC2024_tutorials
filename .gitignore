@@ -9,6 +9,8 @@ fysik2.md
 # C extensions
 *.so
 
+quickstarts/cache/*
+
 # Distribution / packaging
 .Python
 build/
